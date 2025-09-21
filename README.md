@@ -1,15 +1,5 @@
 # PayVo - Voice-Controlled Finance App
 
-<div align="center">
-  <img src="Assets.xcassets/logo.imageset/logo.png" alt="PayVo Logo" width="200" height="200">
-  
-  **Revolutionary voice-controlled personal finance management for iOS**
-  
-  [![Swift](https://img.shields.io/badge/Swift-5.0+-orange.svg)](https://swift.org)
-  [![iOS](https://img.shields.io/badge/iOS-14.0+-blue.svg)](https://developer.apple.com/ios/)
-  [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-</div>
-
 ## 🎯 Overview
 
 PayVo is a cutting-edge iOS finance application that revolutionizes personal money management through advanced voice recognition technology. Built with SwiftUI and powered by Apple's Speech framework, PayVo enables users to perform complex financial transactions using natural voice commands.
